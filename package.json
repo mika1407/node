@@ -1,0 +1,14 @@
+{
+  "name": "node_crash",
+  "version": "1.0.0",
+  "description": "This is just small crash course on node",
+  "main": "App.js",
+  "scripts": {
+    "develop": "nodemon app.js"
+  },
+  "author": "Mika Tiihonen",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
